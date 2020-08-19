@@ -1,0 +1,84 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lacostoropa.com" resolutions="1x" timestamp="1597871642251">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-p_g_-maestra.css" crc="324256352" ref="marcas:ropa-de-hombre:casacas-de-mujer:ropa-de-niños:ropa-de-mujer:lo-nuevo:niños:mujer:index:hombre:casacas-de-hombre:ropas-descuento:todas-las-marcas:casacas-de-hombre-joven:casacas-de-mujer-joven"/>
+    <file name="marcas.css" crc="249379399" ref="marcas"/>
+    <file name="ropa-de-hombre.css" crc="249379399" ref="ropa-de-hombre"/>
+    <file name="casacas-de-mujer.css" crc="249379399" ref="casacas-de-mujer"/>
+    <file name="ropa-de-ni_os.css" crc="249379399" ref="ropa-de-niños"/>
+    <file name="ropa-de-mujer.css" crc="249379399" ref="ropa-de-mujer"/>
+    <file name="lo-nuevo.css" crc="249379399" ref="lo-nuevo"/>
+    <file name="ni_os.css" crc="249379399" ref="niños"/>
+    <file name="mujer.css" crc="249379399" ref="mujer"/>
+    <file name="index.css" crc="246502640" ref="index"/>
+    <file name="hombre.css" crc="249379399" ref="hombre"/>
+    <file name="casacas-de-hombre.css" crc="249379399" ref="casacas-de-hombre"/>
+    <file name="ropas-descuento.css" crc="249379399" ref="ropas-descuento"/>
+    <file name="todas-las-marcas.css" crc="249379399" ref="todas-las-marcas"/>
+    <file name="casacas-de-hombre-joven.css" crc="249379399" ref="casacas-de-hombre-joven"/>
+    <file name="casacas-de-mujer-joven.css" crc="249379399" ref="casacas-de-mujer-joven"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="museutils.js" crc="4190794036" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="whatinput.js" crc="84559013" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+  </folder>
+  <folder name="images">
+    <file name="pagina de ropa para planilla-u94.png" crc="3933340058" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-crop-u110.png" crc="298161948" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-u120.png" crc="229928293" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-crop-u130.png" crc="3794317965" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-crop-u150.png" crc="350643560" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-u220.png" crc="3813529763" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-u240.png" crc="3929346762" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-u250.png" crc="143534800" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-u270.png" crc="4138183172" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="index"/>
+    <file name="u2172-4.png" crc="4038285999" ref="index"/>
+    <file name="parte de adelante de la casaca negra.jpg" crc="349620975" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="parte de atras de la casaca negra.jpg" crc="3826047968" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="casaca azul 1.jpg" crc="166904843" seo="true" ref="index"/>
+    <file name="casaca azul 2.jpg" crc="4251222456" seo="true" ref="index"/>
+    <file name="casaca verde 1.jpg" crc="339360044" seo="true" ref="index"/>
+    <file name="casaca verde 2-crop-u2166.jpg" crc="186963817" ref="index"/>
+    <file name="u2173-4.png" crc="4002454319" ref="index"/>
+    <file name="u2175-4.png" crc="349375133" ref="index"/>
+    <file name="u2178-4.png" crc="3920788539" ref="index"/>
+    <file name="u2174-4.png" crc="3904053108" ref="index"/>
+    <file name="u2176-4.png" crc="4152688783" ref="index"/>
+    <file name="u2177-4.png" crc="187541652" ref="index"/>
+    <file name="u2148-4.png" crc="4036855529" ref="index"/>
+    <file name="u2149-4.png" crc="3795414078" ref="index"/>
+    <file name="u2150-4.png" crc="129182173" ref="index"/>
+    <file name="pagina de ropa para planilla-crop-u2121.png" crc="3780832629" ref="index"/>
+    <file name="pagina de ropa para planilla-crop-u2123.png" crc="3780832629" ref="index"/>
+    <file name="pagina de ropa para planilla-crop-u2125.png" crc="3780832629" ref="index"/>
+    <file name="pagina de ropa para planilla-u2534.png" crc="4190920187" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+    <file name="pagina de ropa para planilla-crop-u2575.png" crc="4158674978" ref="index:mujer:hombre:niños:marcas:lo-nuevo:ropa-de-mujer:ropa-de-hombre:ropa-de-niños:todas-las-marcas:ropas-descuento:casacas-de-mujer:casacas-de-hombre:casacas-de-mujer-joven:casacas-de-hombre-joven"/>
+  </folder>
+  <file name="index.html" crc="258121136" seo="true" mt="1597870574399" redirect="true"/>
+  <file name="mujer.html" crc="515153572" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="hombre.html" crc="327151339" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="niños.html" crc="3868478544" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="marcas.html" crc="193682802" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="lo-nuevo.html" crc="42874291" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="ropa-de-mujer.html" crc="4037670253" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="ropa-de-hombre.html" crc="4192080943" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="ropa-de-niños.html" crc="250466604" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="todas-las-marcas.html" crc="103873507" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="ropas-descuento.html" crc="146063753" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="casacas-de-mujer.html" crc="67333141" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="casacas-de-hombre.html" crc="4236691677" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="casacas-de-mujer-joven.html" crc="421396862" seo="true" mt="1597870477980" redirect="true"/>
+  <file name="casacas-de-hombre-joven.html" crc="3154462" seo="true" mt="1597870477984" redirect="true"/>
+</manifest>
